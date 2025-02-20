@@ -1,5 +1,5 @@
 # quick_mp3
-quickly download and YouTube videos convert to mp3
+quickly download and convert YouTube videos to mp3 or other audio formats
 
 written in python
 
