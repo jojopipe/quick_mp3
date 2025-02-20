@@ -1,0 +1,6 @@
+requests~=2.32.3
+yt-dlp~=2025.2.19
+bs4~=0.0.2
+beautifulsoup4~=4.13.3
+pytube~=15.0.0
+pillow~=11.1.0
